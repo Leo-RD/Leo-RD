@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Leo-RD
 - 👀 I’m interested in development and cybersecurity
 - 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on programming
+- 📫 How to reach me www.linkedin.com/in/léopold-roux-decorzent-1a83ba2b3
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: i drive 
 
 <!---
 Leo-RD/Leo-RD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
