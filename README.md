@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Leo-RD
 - 👀 I’m interested in development and cybersecurity
 - 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on programming
+- 💞️ I’m looking to collaborate on IT
 - 📫 How to reach me www.linkedin.com/in/léopold-roux-decorzent-1a83ba2b3
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i drive 
