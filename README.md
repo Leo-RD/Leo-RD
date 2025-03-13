@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on IT
 - 📫 How to reach me www.linkedin.com/in/léopold-roux-decorzent-1a83ba2b3
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: i drive 
+- ⚡ Fun fact: Engravings. Give you no tactical advantages whatsoever
 
 <!---
 Leo-RD/Leo-RD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
