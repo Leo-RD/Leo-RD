@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Léo</h1>
-<h3 align="center">A IT student from France</h3>
+<h3 align="center">An IT student from France</h3>
 
 - 🔭 I’m currently working on [Hammer Game](https://github.com/Leo-RD/HAMMERGAME)
 
