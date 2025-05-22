@@ -15,6 +15,12 @@
 
 - ⚡ Fun fact **Engravings. Give you no tactical advantages whatsoever**
 
+
+
+![andor-season-2-scaled-1](https://github.com/user-attachments/assets/fd168780-14f2-44d6-9f0c-1f9aee947ce6)
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/https://www.linkedin.com/in/l%c3%a9opold-roux-decorzent-1a83ba2b3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/https://www.linkedin.com/in/l%c3%a9opold-roux-decorzent-1a83ba2b3/" height="30" width="40" /></a>
