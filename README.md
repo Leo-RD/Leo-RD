@@ -17,8 +17,8 @@
 
 
 
-![andor-season-2-scaled-1](https://github.com/user-attachments/assets/fd168780-14f2-44d6-9f0c-1f9aee947ce6)
 
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/f67c6d36-936f-4425-a523-c73414cde09a" />
 
 
 <h3 align="left">Connect with me:</h3>
