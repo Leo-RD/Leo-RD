@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Léo</h1>
 <h3 align="center">An IT student from France</h3>
 
-- 🔭 I’m currently working on [Hammer Game](https://github.com/Leo-RD/HAMMERGAME)
+- 🔭 I’m currently working on [StMichelAppV1](https://github.com/CampusIT-SaintmichelAnnecy/SaintMichelAppV1.git)
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **C# MAUI MVVM**
 
 - 👯 I’m looking to collaborate on **IT**
 
 - 👨‍💻 All of my projects are available at [GitHub/LinkedIn](GitHub/LinkedIn)
 
-- 💬 I’m interested in **development and cybersecurity**
+- 💬 I’m interested in **Web, Flutter and C# developpment**
 
 - 📫 How to reach me **www.linkedin.com/in/léopold-roux-decorzent-1a83ba2b3**
 
-- ⚡ Fun fact **Engravings. Give you no tactical advantages whatsoever**
+- ⚡ Fun fact **Big fan of Formula 1 and Motorsports**
 
 
 
