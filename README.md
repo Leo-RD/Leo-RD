@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Léo</h1>
 <h3 align="center">An IT student from France</h3>
 
-- 🔭 I’m currently working on [StMichelAppV1](https://github.com/CampusIT-SaintmichelAnnecy/SaintMichelAppV1.git)
+- 🔭 I’m currently working on [PermissionsManager MkI](https://github.com/Leo-RD/v1.git)
 
 - 🌱 I’m currently learning **C# MAUI MVVM**
 
